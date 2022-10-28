@@ -28,3 +28,7 @@ N/A
 * [Flutter and Dart Development for Building iOS and Android Apps [Video] ]( https://www.packtpub.com/application-development/flutter-and-dart-development-building-ios-and-android-apps-video)
 
 * [Hands-On Problem Solving for Machine Learning [Video]  ]( https://www.packtpub.com/big-data-and-business-intelligence/hands-problem-solving-machine-learning-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789613209">https://packt.link/free-ebook/9781789613209 </a> </p>
